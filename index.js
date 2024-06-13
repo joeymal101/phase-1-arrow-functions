@@ -1,6 +1,4 @@
-const divide = function(a,b) {
-    return a/b
-}
+const divide = (a,b) => a/b
 
 const square = a => a * a
 
